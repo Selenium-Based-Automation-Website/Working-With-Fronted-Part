@@ -1,6 +1,6 @@
 <span style="color:red">**Working With Fronted Part Using HTML & CSS**</span>               
 ## First Page of Our Website :
-<img src="Slide1.png"
+<img src="Slide1.PNG"
      alt="output"
      style="float: left; margin-right: 10px;" />
      
