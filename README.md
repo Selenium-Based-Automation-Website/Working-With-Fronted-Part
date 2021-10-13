@@ -5,18 +5,18 @@
      style="float: left; margin-right: 10px;" />
      
 ## Second Page of Our Website :
-<img src="Slide2.png"
+<img src="Slide2.PNG"
      alt="output"
      style="float: left; margin-right: 10px;" />
 ## Third Page of Our Website :
-<img src="Slide3.png"
+<img src="Slide3.PNG"
      alt="output"
      style="float: left; margin-right: 10px;" />
 ## Fourth Page of Our Website :
-<img src="Slide4.png"
+<img src="Slide4.PNG"
      alt="output"
      style="float: left; margin-right: 10px;" />
 ## Fifth Page of Our Website :
-<img src="Slide5.png"
+<img src="Slide5.PNG"
      alt="output"
      style="float: left; margin-right: 10px;" />
